@@ -1,0 +1,13 @@
+
+pip install django-bootstrap4
+
+pip install django-registration-redux
+
+python -m pip install Pillow
+
+pip install Django
+
+----rest AAPI ke liya-----
+pip install djangorestframework
+
+pip install djangorestframework-jwt   
