@@ -9,8 +9,8 @@ E-Sabha is a web-based communication media, which allow user to share informatio
 https://www.youtube.com/watch?v=o75Hp9okEvw
 
 ============**DESKTOP**====================
-![desk](https://user-images.githubusercontent.com/85412055/121646447-f77bb080-cab2-11eb-9bb4-f096266b7018.png)
+![social media](https://user-images.githubusercontent.com/85412055/121662668-403b6580-cac3-11eb-8a88-d5e415ca116e.png)
 
 ===========**MOBILE**======================
-![mobile](https://user-images.githubusercontent.com/85412055/121646472-fea2be80-cab2-11eb-8225-8ead57dbbbfc.png)
+![socialmedia mobile](https://user-images.githubusercontent.com/85412055/121662977-901a2c80-cac3-11eb-85a1-f40b9169aabd.png)
 
